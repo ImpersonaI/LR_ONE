@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\OOP_LR_ONE\OOP_LR_ONE\bin\Debug\netcoreapp3.1\OOP_LR_ONE.exe
+C:\Users\Роман\source\repos\OOP_LR_ONE\OOP_LR_ONE\bin\Debug\netcoreapp3.1\OOP_LR_ONE.deps.json
+C:\Users\Роман\source\repos\OOP_LR_ONE\OOP_LR_ONE\bin\Debug\netcoreapp3.1\OOP_LR_ONE.runtimeconfig.json
+C:\Users\Роман\source\repos\OOP_LR_ONE\OOP_LR_ONE\bin\Debug\netcoreapp3.1\OOP_LR_ONE.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\OOP_LR_ONE\OOP_LR_ONE\bin\Debug\netcoreapp3.1\OOP_LR_ONE.dll
+C:\Users\Роман\source\repos\OOP_LR_ONE\OOP_LR_ONE\bin\Debug\netcoreapp3.1\OOP_LR_ONE.pdb
+C:\Users\Роман\source\repos\OOP_LR_ONE\OOP_LR_ONE\obj\Debug\netcoreapp3.1\OOP_LR_ONE.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\OOP_LR_ONE\OOP_LR_ONE\obj\Debug\netcoreapp3.1\OOP_LR_ONE.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\OOP_LR_ONE\OOP_LR_ONE\obj\Debug\netcoreapp3.1\OOP_LR_ONE.AssemblyInfo.cs
+C:\Users\Роман\source\repos\OOP_LR_ONE\OOP_LR_ONE\obj\Debug\netcoreapp3.1\OOP_LR_ONE.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\OOP_LR_ONE\OOP_LR_ONE\obj\Debug\netcoreapp3.1\OOP_LR_ONE.dll
+C:\Users\Роман\source\repos\OOP_LR_ONE\OOP_LR_ONE\obj\Debug\netcoreapp3.1\OOP_LR_ONE.pdb
+C:\Users\Роман\source\repos\OOP_LR_ONE\OOP_LR_ONE\obj\Debug\netcoreapp3.1\OOP_LR_ONE.genruntimeconfig.cache
